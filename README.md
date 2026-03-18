@@ -11,7 +11,7 @@
 -  Daily timetable view
 -  Quick refresh support
 
-Instead of opening multiple screens inside an app, everything you need is available **directly on your home screen**.
+Instead of opening multiple pages inside an app, everything you need is available **directly on your home screen**.
 
 ---
 
@@ -27,7 +27,8 @@ During attendance:
 
 The usual process to verify attendance:
 
-    Open PESU Academy:
+    Open PESU Academy:   
+    → Unlock using biometrics 
     → Go to Attendance
     → Select Course
     → Check Date
